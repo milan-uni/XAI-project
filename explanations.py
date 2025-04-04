@@ -1,4 +1,4 @@
-#not my work
+#not my work!! Eclique. (n.d.). RISE/explanations.py at master · eclique/RISE. GitHub. https://github.com/eclique/RISE/blob/master/explanations.py
 import numpy as np
 import torch
 import torch.nn as nn
